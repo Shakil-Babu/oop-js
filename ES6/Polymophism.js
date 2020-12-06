@@ -1,3 +1,5 @@
+// es5 polymorphism
+
 function School_details(){
     this.School_name  = 'CH School' ;
     this.school_invented_was = 1992 ;
